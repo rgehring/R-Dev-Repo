@@ -1,0 +1,11 @@
+Package: rgVal
+Type: Package
+Title: rgVal: Standard Validation Boilerplate for Lazy People
+Version: 0.1
+Date: 2012-02-15
+Author: Ryan Gehring AKA Big Lil Woof Dog
+Maintainer: RG <rgehring@linkedin.com>
+Description: Who Knows?
+License: GPL2.0
+LazyLoad: yes
+Built: R 2.14.1; x86_64-redhat-linux-gnu; 2012-02-16 08:21:05 UTC; unix
